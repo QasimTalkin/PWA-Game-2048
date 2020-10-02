@@ -1,0 +1,24 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "pwa 2018",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QasimTalkin/PWA-Game-2048.git"
+  },
+  "author": "\"Abul Qasim\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QasimTalkin/PWA-Game-2048/issues"
+  },
+  "homepage": "https://github.com/QasimTalkin/PWA-Game-2048#readme",
+  "dependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-connect": "^3.0.0",
+    "node": "^14.13.0"
+  }
+}
