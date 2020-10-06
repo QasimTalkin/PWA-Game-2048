@@ -12,9 +12,10 @@ I have converted into a progressive webapp.  [Play it here!](https://qasimtalkin
 `python -m SimpleHTTPServer`
 
 **Step 1 : Adding Manifest**
-- to describe the application to the platform on hot to add to their home screen. 
+- to describe the application to the platform on how to add to their home screen. 
 add link in HTML head
 `<link rel="manifest" herf="manifest.json">`
+
 **Step 1 : Adding Service Worker**
 - register sw.js with serviceWorker 
 - register event handler for install, active and fetch event. 
@@ -22,3 +23,9 @@ add link in HTML head
 
 **Pwa on iso**
 - Triggering web experience on apple ios devices. 
+
+**Git pages 404**
+```git
+git commit --allow-empty -m "Trigger rebuild"
+git push
+```
