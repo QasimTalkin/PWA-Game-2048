@@ -1,7 +1,7 @@
 {
   "name": "2048 - Progressive Web App",
   "short_name": "2048 PWA",
-  "description": "This is a fork of the original 2048 web application source. It is upgraded to be a progressive web application and used as a reference application in the Packt Book - Progressive Web Applications By Example",
+  "description": "This is a fork of the original 2048 web application source.",
   "icons": [
     {
       "src": "meta/2048-logo-70x70.png",
