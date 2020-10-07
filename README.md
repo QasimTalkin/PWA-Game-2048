@@ -9,8 +9,10 @@ I have converted into a progressive webapp.  [Play it here!](https://qasimtalkin
 ## Scope 
 
 - run local server in root directory 
-`python -m SimpleHTTPServer`
-
+python 2
+`python -m SimpleHTTPServer 1111`
+python 3
+`python -m http.server 1111`
 **Step 1 : Adding Manifest**
 - to describe the application to the platform on how to add to their home screen. 
 add link in HTML head
